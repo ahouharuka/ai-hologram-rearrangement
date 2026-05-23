@@ -23,6 +23,7 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+*副本*
 
 # Claude Code
 .claude/
@@ -35,6 +36,12 @@ venv/
 env/
 .venv/
 
+# Personal notes
+note.md
+
 # Output images (generated)
 *.png
 *.jpg
+
+# Exception: assets folder for README
+!assets/*.png
