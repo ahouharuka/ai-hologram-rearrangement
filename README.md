@@ -14,7 +14,7 @@ In neutral-atom quantum computing, Spatial Light Modulators (SLMs) generate holo
 
 This work reproduces the core methodology from:
 
-> *"Constant-time rearrangement of large-scale neutral atom arrays via artificial intelligence"* (2024).
+> R. Lin, H.-S. Zhong, Y. Li, Z.-R. Zhao et al., *"AI-Enabled Parallel Assembly of Thousands of Defect-Free Neutral Atom Arrays,"* Phys. Rev. Lett. 135, 060602 (2025).
 
 ### Results
 
@@ -89,7 +89,7 @@ The final U-Net features:
 
 本项目复现了：
 
-> *"利用人工智能实现大规模中性原子阵列的常数时间重排"* (2024).
+> R. Lin, H.-S. Zhong, Y. Li, Z.-R. Zhao 等, *"AI-Enabled Parallel Assembly of Thousands of Defect-Free Neutral Atom Arrays,"* Phys. Rev. Lett. 135, 060602 (2025).
 
 ### 效果展示
 
@@ -156,11 +156,10 @@ python AI_10.py    # U-Net (推荐)
 
 ---
 
-## References / 参考文献
+## Reference / 参考文献
 
-- **Primary reference**: Authors et al., *"Constant-time rearrangement of large-scale neutral atom arrays via artificial intelligence"* (2024).  
-  *利用人工智能实现大规模中性原子阵列的常数时间重排.*
-
-- **WGS algorithm**: R. Di Leonardo, F. Ianni, and G. Ruocco, *"Computer generation of optimal holograms for optical trap arrays,"* Opt. Express 15, 1913–1922 (2007). [DOI: 10.1364/OE.15.001913](https://doi.org/10.1364/OE.15.001913)
-
-- **Neutral atom arrays**: A. M. Kaufman and K.-K. Ni, *"Quantum science with optical tweezer arrays of ultracold atoms and molecules,"* Nat. Phys. 17, 1324–1333 (2021). [DOI: 10.1038/s41567-021-01357-2](https://doi.org/10.1038/s41567-021-01357-2)
+Rui Lin, Han-Sen Zhong, You Li, Zhang-Rui Zhao, et al.  
+**"AI-Enabled Parallel Assembly of Thousands of Defect-Free Neutral Atom Arrays."**  
+*Physical Review Letters* **135**, 060602 (2025).  
+DOI: [10.1103/PhysRevLett.135.060602](https://doi.org/10.1103/PhysRevLett.135.060602)  
+arXiv: [2412.14647](https://arxiv.org/abs/2412.14647)
