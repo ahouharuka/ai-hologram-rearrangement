@@ -79,10 +79,6 @@ The final U-Net features:
 - Sigmoid on amplitude output, free phase
 - Complex-domain loss: `‖E_pred − E_target‖²`
 
-### License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
 ---
 
 ## 中文
@@ -157,10 +153,6 @@ python AI_10.py    # U-Net (推荐)
 - 通道变化：2 → 32 → 64 → 128 → 256 → 128 → 64 → 32 → 2
 - 振幅输出经 Sigmoid 归一化，相位自由输出
 - 复数域损失函数：`‖E_pred − E_target‖²`
-
-### License
-
-MIT License — 详见 [LICENSE](LICENSE)。
 
 ---
 
